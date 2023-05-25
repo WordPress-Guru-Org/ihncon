@@ -1,0 +1,23 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #e74a3e;
+            }
+            
+            .cls-2 {
+                fill: #181818;
+            }
+        </style>
+    </defs>
+    <title>Icons-Business-And-Finance</title>
+	<path class="cls-1" d="M680,960H360v320h320V960z M600,1200H440v-160h160V1200z"/>
+	<path class="cls-1" d="M1160,960H840v320h320V960z M1080,1200H920v-160h160V1200z"/>
+	<path class="cls-1" d="M1640,960h-320v320h320V960z M1560,1200h-160v-160h160V1200z"/>
+	<path class="cls-1" d="M680,1440H360v320h320V1440z M600,1680H440v-160h160V1680z"/>
+	<path class="cls-1" d="M1160,1440H840v320h320V1440z M1080,1680H920v-160h160V1680z"/>
+	<path class="cls-1" d="M120,0v2000h1760V0H120z M1800,1920H200V80h1600V1920z"/>
+	<rect x="1320" y="1440" class="cls-2"width="320" height="320"/>
+	<path class="cls-2"d="M360,240v560h1280V240H360z M1040,600h-80V440h80V600z M1200,600h-80V440h80V600z M1360,600h-80V440h80V600
+		z M1520,600h-80V440h80V600z"/>
+</svg>

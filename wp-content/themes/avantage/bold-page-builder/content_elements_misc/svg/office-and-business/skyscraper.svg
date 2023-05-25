@@ -1,0 +1,72 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #e74a3e;
+            }
+            
+            .cls-2 {
+                fill: #181818;
+            }
+        </style>
+    </defs>	
+    <title>Office-And-Business</title>
+	<polygon class="cls-2" points="1750.012,1214.32 1750.012,500.012 1607.148,500.012 1607.148,357.141 1464.289,357.141 
+		1464.289,785.719 1321.441,785.719 1321.441,1107.141 1571.43,1107.141 1571.43,1392.879 1714.301,1392.879 1714.301,2000 
+		1892.859,2000 1892.859,1214.32 	"/>
+	<polygon class="cls-2" points="535.711,785.719 392.852,785.719 392.852,642.859 250,642.859 250,928.578 250,1500.02 
+		107.141,1500.02 107.141,2000 285.711,2000 285.711,1392.879 428.559,1392.879 428.559,1107.141 678.57,1107.141 678.57,928.578 
+		535.711,928.578 	"/>
+	<rect x="964.301" y="214.289" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="964.301" y="357.141" class="cls-1" width="71.43" height="71.441"/>
+	<rect x="964.301" y="500" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="964.301" y="642.898" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="964.301" y="785.699" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="964.301" y="928.602" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="964.301" y="1071.398" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="964.301" y="1214.301" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="964.301" y="1357.199" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="964.301" y="1500" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="964.301" y="1642.898" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="964.301" y="1785.699" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1107.102" y="500" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1107.102" y="642.898" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1107.102" y="785.699" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1107.102" y="928.602" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1107.102" y="1071.398" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1107.102" y="1214.301" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1107.102" y="1357.199" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1107.102" y="1500" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1107.102" y="1642.898" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1107.102" y="1785.699" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="821.398" y="500" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="821.398" y="642.898" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="821.398" y="785.699" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="821.398" y="928.602" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="821.398" y="1071.398" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="821.398" y="1214.301" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="821.398" y="1357.199" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="821.398" y="1500" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="821.398" y="1642.898" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="821.398" y="1785.699" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1392.898" y="1214.301" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1392.898" y="1357.199" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1392.898" y="1500" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1392.898" y="1642.898" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1392.898" y="1785.699" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="1535.699" y="1500" class="cls-1" width="71.441" height="71.43"/>
+	<rect x="1535.699" y="1642.898" class="cls-1" width="71.441" height="71.43"/>
+	<rect x="1535.699" y="1785.699" class="cls-1" width="71.441" height="71.43"/>
+	<path class="cls-1" d="M1607.152,1357.168V1071.43h-285.711V357.141H1178.57V71.441h-142.84V0h-71.43v71.441H821.441v285.699
+		H678.57v714.293H392.852v285.738H250V2000h428.57h71.441h500h71.43h428.57v-642.832H1607.152z M678.57,1928.57H321.422h-0.004
+		v-499.98H464.27v-285.738H678.57V1928.57z M1250.012,1928.57h-500v-857.137h-0.004V428.59h142.852V142.871h214.281v285.707h142.871
+		v642.852V1928.57z M1678.582,1928.57h-357.141v-785.719h214.281v285.738h142.859V1928.57z"/>
+	<rect x="535.699" y="1214.301" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="535.699" y="1357.199" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="535.699" y="1500" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="535.699" y="1642.898" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="535.699" y="1785.699" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="392.801" y="1500" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="392.801" y="1642.898" class="cls-1" width="71.43" height="71.43"/>
+	<rect x="392.801" y="1785.699" class="cls-1" width="71.43" height="71.43"/>
+</svg>

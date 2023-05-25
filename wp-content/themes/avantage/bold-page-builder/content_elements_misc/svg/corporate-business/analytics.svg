@@ -1,0 +1,32 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 2000">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #e74a3e;
+            }
+            
+            .cls-2 {
+                fill: #181818;
+            }
+        </style>
+    </defs>	
+    <title>Corporate-Business</title>
+	<rect x="650.496" y="456.68" class="cls-2" width="908.699" height="527.68"/>
+	<polygon class="cls-1" points="1487.203,1925.93 303.074,1925.93 303.074,283.781 370.887,283.781 370.887,209.711 
+		229.004,209.711 229.004,2000 1561.285,2000 1561.285,1858.121 1487.203,1858.121 	"/>
+	<path class="cls-1" d="M1469.414,0H438.715v1790.289h1332.277V301.609L1469.414,0z M1491.105,126.451l153.385,153.4h-153.385
+		V126.451z M512.785,1716.219V74.082h904.25v279.84h279.879v1362.297H512.785z"/>
+	<rect x="650.496" y="279.852" class="cls-1" width="454.398" height="74.07"/>
+	<rect x="650.496" y="1087.102" class="cls-1" width="908.699" height="74.078"/>
+	<rect x="1104.797" y="1226.898" class="cls-1" width="454.398" height="74.07"/>
+	<rect x="1104.797" y="1366.699" class="cls-1" width="454.398" height="74.07"/>
+	<rect x="650.496" y="1506.5" class="cls-1" width="352.301" height="74.07"/>
+	<rect x="650.496" y="910.602" class="cls-1" width="74.07" height="73.711"/>
+	<rect x="789.605" y="802" class="cls-1" width="74.07" height="182.359"/>
+	<rect x="928.695" y="848.898" class="cls-1" width="74.078" height="135.461"/>
+	<rect x="1067.793" y="711.898" class="cls-1" width="74.07" height="272.5"/>
+	<rect x="1206.895" y="750.199" class="cls-1" width="74.07" height="234.211"/>
+	<rect x="1345.996" y="562.5" class="cls-1" width="74.07" height="421.898"/>
+	<rect x="1485.094" y="635.301" class="cls-1" width="74.07" height="349.031"/>
+	<path class="cls-1" d="M1002.773,1226.922H650.484v213.879h352.289V1226.922z M928.695,1366.73H724.566V1301h204.129V1366.73z"/>
+</svg>

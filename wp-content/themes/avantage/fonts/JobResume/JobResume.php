@@ -1,0 +1,42 @@
+<?php
+
+$set = strtolower( basename(__FILE__, '.php') );
+
+$$set = array(
+	'avatar (jobresume set)' => $set . '_e900',
+	'briefcase (jobresume set)' => $set . '_e901',
+	'building (jobresume set)' => $set . '_e902',
+	'coding (jobresume set)' => $set . '_e903',
+	'creativity (jobresume set)' => $set . '_e904',
+	'desk-chair (jobresume set)' => $set . '_e905',
+	'email (jobresume set)' => $set . '_e906',
+	'folder (jobresume set)' => $set . '_e907',
+	'graduation (jobresume set)' => $set . '_e908',
+	'growth (jobresume set)' => $set . '_e909',
+	'handshake (jobresume set)' => $set . '_e90a',
+	'house (jobresume set)' => $set . '_e90b',
+	'idea (jobresume set)' => $set . '_e90c',
+	'key (jobresume set)' => $set . '_e90d',
+	'list (jobresume set)' => $set . '_e90e',
+	'mail '.'(jobresume set)' => $set . '_e90f',
+	'mask (jobresume set)' => $set . '_e910',
+	'medal (jobresume set)' => $set . '_e911',
+	'mortarboard (jobresume set)' => $set . '_e912',
+	'newspaper (jobresume set)' => $set . '_e913',
+	'padlock (jobresume set)' => $set . '_e914',
+	'path (jobresume set)' => $set . '_e915',
+	'placeholder (jobresume set)' => $set . '_e916',
+	'presentation (jobresume set)' => $set . '_e917',
+	'presentation-1 (jobresume set)' => $set . '_e918',
+	'responsive (jobresume set)' => $set . '_e919',
+	'resume (jobresume set)' => $set . '_e91a',
+	'sir (jobresume set)' => $set . '_e91b',
+	'smartphone (jobresume set)' => $set . '_e91c',
+	'strength (jobresume set)' => $set . '_e91d',
+	'target (jobresume set)' => $set . '_e91e',
+	'target-1 (jobresume set)' => $set . '_e91f',
+	'telescope (jobresume set)' => $set . '_e920',
+	'translator (jobresume set)' => $set . '_e921',
+	'trophy (jobresume set)' => $set . '_e922',
+	'ukelele (jobresume set)' => $set . '_e923'
+);
